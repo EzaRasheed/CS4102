@@ -18,3 +18,5 @@ Topics Covered Include:
 - Graphs: MST, Dijkstra's, Prim's, Kruskal's, Bellman-Ford, Floyd-Warshall
 - BiPartite Matching
 - Reductions: NP-Completeness
+
+**All asignments done in LaTeX**

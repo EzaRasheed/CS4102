@@ -19,4 +19,4 @@ Topics Covered Include:
 - BiPartite Matching
 - Reductions: NP-Completeness
 
-**All asignments done in LaTeX**
+**All written assignments done in LaTeX**

@@ -1,5 +1,6 @@
 # CS4102
-Algorithms
+Algorithms <br />
+Fall 2019
 
 Topics Covered Include:
 - Divide and Conquer
